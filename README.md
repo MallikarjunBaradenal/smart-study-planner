@@ -40,8 +40,8 @@ smart-study-planner/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smart-study-planner.git
-   cd smart-study-planner
+[   git clone https://github.com/yourusername/smart-study-planner.git
+](https://github.com/MallikarjunBaradenal/smart-study-planner) 
    ```
 
 2. **Open in browser**
